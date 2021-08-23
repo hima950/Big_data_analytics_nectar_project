@@ -20,7 +20,7 @@ jsonschema==2.6.0
 jupyter-client==5.1.0
 jupyter-core==4.3.0
 jupyterhub==0.8.0
-jupyterlab==0.27.0
+jupyterlab==1.2.21
 jupyterlab-launcher==0.4.2
 kiwisolver==1.0.1
 Mako==1.0.7
